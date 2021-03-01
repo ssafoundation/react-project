@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Musfiqur Rahim",
+    "id":15,
+    "img": "https://i.ibb.co/sWr2YxP/Mushfiqur-Rahim-CWC19.png",
+    "salary":200000,
+    "team":"Bangladesh"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "id":15,
+    "img": "https://i.ibb.co/ZMpWncn/5I.png",
+    "salary":250000,
+    "team":"Bangladesh"
+  },
+  {
+    "name": "Mahmodullah",
+    "id":15,
+    "img": "https://i.ibb.co/Xtm2zjD/Mahmudullah-CWC19.png",
+    "salary":200000,
+    "team":"Bangladesh"
+  },
+  {
+   "name": "mashrafe bin mortaza",
+    "id":2,
+    "img": "https://i.ibb.co/0MKNjSH/Mashrafe-Mortaza-CWC19.png",
+    "salary":250000,
+    "team":"Bangladesh"
+  },{
+    "name": "Liton Kumar Das",
+    "id":15,
+    "img": "https://i.ibb.co/T1p8HyJ/Liton-Das-CWC19.png",
+    "salary":170000,
+    "team":"Bangladesh"
+  },
+  {
+    "name": "Mustafizur-Rahman",
+    "id":15,
+    "img": "https://i.ibb.co/mhf9Z9p/Mustafizur-Rahman-CWC19.png",
+    "salary":170000,
+    "team":"Bangladesh"
+  },
+  {
+    "name": "Rubel-Hossain",
+    "id":15,
+    "img": "https://i.ibb.co/zGH2Tqd/Rubel-Hossain-Ct17.png",
+    "salary":200000,
+    "team":"Bangladesh"
+  },
+  {
+   "name": "Tamim-Iqbal",
+    "id":15,
+    "img": "https://i.ibb.co/C06xnf8/Tamim-Iqbal-CWC19.png",
+    "salary":200000,
+    "team":"Bangladesh"
+  },{
+    "name": "Soumya-Sarkar",
+    "id":15,
+    "img": "https://i.ibb.co/hH73ccL/Soumya-Sarkar-CWC19.png",
+    "salary":200000,
+    "team":"Bangladesh"
+  },
+  {
+    "name": "Imrul-Kayes",
+    "id":15,
+    "img": "https://i.ibb.co/HC2mNKr/Imrul-Kayes-Ct17.png",
+    "salary":200000,
+    "team":"Bangladesh"
+  },
+  {
+    "name": "Taskin-Ahmed",
+    "id":15,
+    "img": "https://i.ibb.co/D4vWh76/Taskin-Ahmed-Ct17.png",
+    "salary":200000,
+    "team":"Bangladesh"
+  },
+  {
+   "name": "Mehedi-Hasan",
+    "id":15,
+    "img": "https://i.ibb.co/Bjgngxx/Mehedi-Hasan-CWC19.png",
+    "salary":200000,
+    "team":"Bangladesh"
+  }
+]

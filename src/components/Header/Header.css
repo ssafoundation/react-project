@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    background: radial-gradient(#d02f25, #50b38e);
+}
+.header h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 70px;
+}
+.logo{
+    width:30%;
+    padding:10px 25px;
+} 
+.header nav{
+    font-size: 20px;
+    padding-top: 13px;
+   
+}
+nav a{
+    text-decoration: none; 
+    color: #fff;
+    margin-right: 16px;
+    padding: 7px
+}
+nav a:hover{
+    text-decoration: underline;
+    color: #fff;
+}
